@@ -16,7 +16,7 @@
 .resultcontainer {
   position: relative;
   height: 10vh;
-  width: 25vw;
+  width: 250px;
   color: #fff;
   background: black;
   overflow: scroll;
@@ -35,7 +35,7 @@
 }
 .numbercontainer {
   height: auto;
-  width: 25vw;
+  width: 250px;
   background: #fff;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
